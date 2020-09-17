@@ -1,0 +1,11 @@
+{
+  "name": "factory",
+  "version": "1.0.0",
+  "description": "Eventually, a description of the factory pattern and its solution will be here! Check back later!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
